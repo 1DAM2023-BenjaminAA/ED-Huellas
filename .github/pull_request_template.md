@@ -1,15 +1,19 @@
 ## Description de la tarea
 
-<!-- Descripción sobre lo que se pide en la tarea -->
+<!-- Desarrollamos una aplicacion para gestionar la adopcion de los animales con datos de prueba. -->
 
 ## ¿Cómo se ha implementado?
 
-<!-- Estructura de clases, patrones: MVVM, etc.  -->
+<! Se a modelado las entidades que tiene la protectora(lucidchart)
 
 ## Keywords
 
-<!-- Palabras relacionadas con los conceptos vistos -->
+<!-- Diagrama de clases, atributos, metodos, entidades, main, etc -->
 
 ## Screenshots or Video
 
-<!-- Captura de pantalla de la consola -->
+![img.png](img.png)
+
+![img_1.png](img_1.png)
+
+
