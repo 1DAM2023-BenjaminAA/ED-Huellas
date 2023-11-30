@@ -41,7 +41,6 @@ public class Adoption {
         this.personAdop = personAdop;
     }
 
-
     public void addPets(Pets pets){
         adopcionPets.add(pets);
     }
@@ -51,14 +50,11 @@ public class Adoption {
         return adopcionPets.get(posicion);
     }
 
-
-
     public void addPerson(Person person){
         personAdop.add(person);
     }
 
     public Person getPerson(Integer posicion){
-
         return personAdop.get(posicion);
     }
 }
